@@ -1,0 +1,5 @@
+DFL_E12_WT_H3K27ac_rep2	DFL_E12_WT_Input_rep1
+DFL_E12_WT_H3K27ac_rep1	DFL_E12_WT_Input_rep1
+PFL_E12_WT_H3K27ac_rep1	PFL_E12_WT_Input_rep1
+DFL_E12_WT_H3K27me3_rep2	DFL_E12_WT_Input_rep1
+PFL_E12_WT_H3K27me3_rep1	PFL_E12_WT_Input_rep1

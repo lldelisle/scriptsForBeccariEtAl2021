@@ -1,0 +1,4 @@
+ES_chr15	GSE161259_ES_chr15.validPairs.csort.gz	fromValidPairsJuicerToCool.sh	5	mm10
+E14_Cortex_chr15	GSE161259_ncx_CN_chr15.validPairs.csort.gz	fromValidPairsJuicerToCool.sh	5	mm10
+E12_DL	GSM2713716_DL_HiC_E12_Wt.validPair.txt.gz	fromValidPairsDekkerToCool.sh	40	mm10
+HH20_HL_FL	HH20_HL_FL_WT_CHi-C.validPairs_nonSorted.txt.gz	fromValidPairsJuicerToCool.sh	20	galGal6

@@ -1,0 +1,6 @@
+figure	stage	genes
+1E	E13	Dbx2,Hoxa13,Hoxd13,Gdf5,Mkx,Scx
+6C	E13	Dbx2,Nell2,Ano6
+S1Atop	E13	Col2a1,Col1a1,Sox9,Dbx2,Hoxa13,Hoxd13,Gdf5,Mkx,Scx
+S1Abottom	E15	Col2a1,Col1a1,Sox9,Dbx2,Hoxa13,Hoxd13,Gdf5,Mkx,Scx
+S1B	E11	Dbx2,Hoxa13,Hoxd13
